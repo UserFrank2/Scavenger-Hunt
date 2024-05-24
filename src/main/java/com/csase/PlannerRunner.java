@@ -9,5 +9,9 @@ public class PlannerRunner {
         // Gets the student's choice until the student exits
         jada.getChoice();
 
+        Student test = new Student();
+
+        test.
+
     }
 }
